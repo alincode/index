@@ -2,7 +2,7 @@
 
 - [x] page 1
 - [x] page 2
-- [ ] page 3
+- [x] page 3
 - [ ] page 4
 - [ ] page 5
 - [ ] page 6
@@ -19,12 +19,15 @@
 - https://github.com/alincode/travel-note
 - https://github.com/alincode/20190805-show-me-the-code
 - https://github.com/alincode/20190520-show-me-the-code
+- https://github.com/alincode/fitbit-dapp
 
 ### Mise2 (maybe will remove it)
 - https://github.com/alincode/ai-zero-to-hero
 - https://github.com/alincode/mongodb-backup-gcs
 - https://github.com/alincode/etherscan-scraper
 - https://github.com/alincode/coding-editor
+- https://github.com/alincode/simple-storage-debugging
+- https://github.com/alincode/simple-storage
 
 ### 30 days challenge
 - https://github.com/alincode/2020-remote-year
@@ -33,6 +36,8 @@
 - https://github.com/alincode/blockchain-30days-2019
 - https://github.com/alincode/devops-30days-2019
 - https://github.com/alincode/modular-design-30days-2019
+- https://github.com/alincode/30-days-smart-contract
+- https://github.com/alincode/30-days-dapp
 
 ### Ebook
 - https://github.com/alincode/learngeb (md)
@@ -44,19 +49,31 @@
 ### NPM
 - https://github.com/alincode/koa-gcs
 - https://github.com/alincode/skilltree.js (should be upgrade)
+- https://github.com/alincode/skilltree-example
 - https://github.com/alincode/ajax-caching
 - https://github.com/alincode/nodejs-pubsub (?)
+- https://github.com/alincode/SuperPasteURL
+- https://github.com/alincode/eth-dapp-generator
 
 #### Blockchain
 - https://github.com/alincode/resolve-ipfs
+- https://github.com/alincode/resolve-http
+- https://github.com/alincode/resolve-swarm
+- https://github.com/alincode/resolve-github
+- https://github.com/alincode/solc-resolver
 - https://github.com/alincode/codemirror-solidity
 - https://github.com/alincode/solidity-validator.js
 - https://github.com/alincode/solc-version (should be upgrade)
 - https://github.com/alincode/solcjs-core
 - https://github.com/alincode/solcjs-mock
-- https://github.com/alincode/solc-resolver
-- https://github.com/alincode/resolve-github
+- https://github.com/alincode/solc-import
 - https://github.com/alincode/solcjs-lightweight
+- https://github.com/alincode/solc-compiler-proxy
+- https://github.com/alincode/contracts-view
+- https://github.com/alincode/smartcontract-app
+- https://github.com/alincode/play-editor
+- https://github.com/alincode/rinkeby-faucet
+- https://github.com/alincode/king-sandbox
 
 #### Youtube Playlist
 - https://github.com/alincode/youtube-playlist-cli (should be upgrade)
@@ -69,6 +86,21 @@
 - https://github.com/alincode/functional-programming-zero-to-hero
 - https://github.com/alincode/mqtt-sandbox
 - https://github.com/alincode/architecture-zero-to-hero
+- https://github.com/alincode/javascript-zero-to-hero
+- https://github.com/alincode/chatbot-zero-to-hero
+- https://github.com/alincode/design-pattern-zero-to-hero
+- https://github.com/alincode/ethereum-zero-to-hero
+- https://github.com/alincode/devops-zero-to-hero
+- https://github.com/alincode/blockchain-zero-to-hero
+- https://github.com/alincode/api-zero-to-hero
+- https://github.com/alincode/case-study-zero-to-hero
+- https://github.com/alincode/build-zero-to-hero
+- https://github.com/alincode/digital-nomad-zero-to-hero
+- https://github.com/alincode/testing-zero-to-hero
+- https://github.com/alincode/learning-day-by-day
+- https://github.com/alincode/resource-collection
+- https://github.com/alincode/speaker-zero-to-hero
+- https://github.com/alincode/solc-zero-to-hero
 
 ### Interview Exam
 - https://github.com/alincode/exchange-module
@@ -92,3 +124,5 @@
 - https://github.com/alincode/contracts-view
 - https://github.com/alincode/CodeMirror
 - https://github.com/alincode/skilltree-example
+- https://github.com/alincode/koa2-file-upload-sandbox
+- https://github.com/alincode/truffle-pet-shop-sandbox
