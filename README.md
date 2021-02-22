@@ -3,7 +3,7 @@
 - [x] page 1
 - [x] page 2
 - [x] page 3
-- [ ] page 4
+- [x] page 4
 - [ ] page 5
 - [ ] page 6
 - [ ] page 7
@@ -20,14 +20,17 @@
 - https://github.com/alincode/20190805-show-me-the-code
 - https://github.com/alincode/20190520-show-me-the-code
 - https://github.com/alincode/fitbit-dapp
+- https://github.com/alincode/fitbit-api-test
+- https://github.com/alincode/euro-zero-to-hero
+- https://github.com/alincode/digital-nomad-guide-to-taiwan
 
 ### Mise2 (maybe will remove it)
-- https://github.com/alincode/ai-zero-to-hero
 - https://github.com/alincode/mongodb-backup-gcs
 - https://github.com/alincode/etherscan-scraper
 - https://github.com/alincode/coding-editor
 - https://github.com/alincode/simple-storage-debugging
 - https://github.com/alincode/simple-storage
+- https://github.com/alincode/koa2-starter-kit-outdated
 
 ### 30 days challenge
 - https://github.com/alincode/2020-remote-year
@@ -45,6 +48,8 @@
 - https://github.com/alincode/git-workshop (md)
 - https://github.com/alincode/2019-fcu-backend-dev (html)
 - https://github.com/alincode/git-workshop-for-iii (html)
+- https://github.com/alincode/hellojs2-gitbook (md)
+- https://github.com/alincode/webdriverio-workshop (md)
 
 ### NPM
 - https://github.com/alincode/koa-gcs
@@ -81,6 +86,7 @@
 - https://github.com/alincode/youtube-playlist-markdown
 
 ### Technical Notebook
+- https://github.com/alincode/video-tutorials-for-developers
 - https://github.com/alincode/lerna-lab
 - https://github.com/alincode/yarn-workspaces-example
 - https://github.com/alincode/functional-programming-zero-to-hero
@@ -101,6 +107,15 @@
 - https://github.com/alincode/resource-collection
 - https://github.com/alincode/speaker-zero-to-hero
 - https://github.com/alincode/solc-zero-to-hero
+- https://github.com/alincode/english-zero-to-hero
+- https://github.com/alincode/algorithm-zero-to-hero
+- https://github.com/alincode/aws-zero-to-hero
+- https://github.com/alincode/security-zero-to-hero
+- https://github.com/alincode/graphql-zero-to-hero
+- https://github.com/alincode/git-zero-to-hero
+- https://github.com/alincode/ai-zero-to-hero
+- https://github.com/alincode/debug-zero-to-hero
+- https://github.com/alincode/vuejs-zero-to-hero
 
 ### Interview Exam
 - https://github.com/alincode/exchange-module
@@ -108,12 +123,25 @@
 ### Work From Home
 - https://github.com/software-career/stayinghomeclub
 
+### Speach Demo
+- https://github.com/alincode/modern-web-2018-swagger
+- https://github.com/alincode/modern-web-2019-modular-design
+
+### Teach Demo for student
+- https://github.com/alincode/git-sandbox-0517
+- https://github.com/alincode/promise-example
+- https://github.com/alincode/modern-web-2017
+- https://github.com/alincode/react-basic-demo
+- https://github.com/hellojs-tw/2017-summer-camp
+- https://github.com/alincode/170625-ithome
+- https://github.com/alincode/webdriverio-env-test
+- https://github.com/alincode/webdriverio-pageobject
+
 ### Demo / Sandbox
 - https://github.com/alincode/lerna-sandbox-2019
 - https://github.com/alincode/solid-principles-demo
 - https://github.com/alincode/sequelize-sandbox
 - https://github.com/alincode/api-server-demo-2019
-- https://github.com/alincode/modern-web-2019-modular-design
 - https://github.com/alincode/koa2-file-upload-sandbox
 - https://github.com/alincode/git-sandbox-for-iii
 - https://github.com/alincode/git-rebase-conflict-sandbox
@@ -126,3 +154,10 @@
 - https://github.com/alincode/skilltree-example
 - https://github.com/alincode/koa2-file-upload-sandbox
 - https://github.com/alincode/truffle-pet-shop-sandbox
+- https://github.com/alincode/bel-sandbox
+- https://github.com/alincode/laravel-jwt-sandbox
+- https://github.com/alincode/laravel-sandbox
+- https://github.com/alincode/ckeditor-sandbox
+- https://github.com/alincode/api-test-demo-with-jsonplaceholder
+- https://github.com/alincode/cucumberjs-sandbox
+- https://github.com/alincode/bmi-demo
