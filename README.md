@@ -4,7 +4,7 @@
 - [x] page 2
 - [x] page 3
 - [x] page 4
-- [ ] page 5
+- [x] page 5
 - [ ] page 6
 - [ ] page 7
 - [ ] page 8
@@ -12,6 +12,7 @@
 - [ ] page 10
 
 ### Mise
+- https://github.com/alincode/translate-notice
 - https://github.com/alincode/config
 - https://github.com/alincode/blog
 - https://github.com/alincode/speech
@@ -50,6 +51,11 @@
 - https://github.com/alincode/git-workshop-for-iii (html)
 - https://github.com/alincode/hellojs2-gitbook (md)
 - https://github.com/alincode/webdriverio-workshop (md)
+- https://github.com/alincode/takming-testing (md)
+- https://github.com/alincode/remote-workers-in-taiwan (md)
+- https://github.com/alincode/learning-ai2 (md)
+- https://github.com/alincode/learning-html5 (md)
+- https://github.com/alincode/learning-web-crawler (md)
 
 ### NPM
 - https://github.com/alincode/koa-gcs
@@ -86,6 +92,8 @@
 - https://github.com/alincode/youtube-playlist-markdown
 
 ### Technical Notebook
+- https://github.com/alincode/learning-sailsjs-30days
+- https://github.com/alincode/learning-es6
 - https://github.com/alincode/video-tutorials-for-developers
 - https://github.com/alincode/lerna-lab
 - https://github.com/alincode/yarn-workspaces-example
@@ -126,8 +134,10 @@
 ### Speach Demo
 - https://github.com/alincode/modern-web-2018-swagger
 - https://github.com/alincode/modern-web-2019-modular-design
+- https://github.com/alincode/testing-day-2017-e2e-testing
+- https://github.com/alincode/jsdc-tw-2016-webdriverio
 
-### Teach Demo for student
+### Teaching Example
 - https://github.com/alincode/git-sandbox-0517
 - https://github.com/alincode/promise-example
 - https://github.com/alincode/modern-web-2017
@@ -136,6 +146,25 @@
 - https://github.com/alincode/170625-ithome
 - https://github.com/alincode/webdriverio-env-test
 - https://github.com/alincode/webdriverio-pageobject
+- https://github.com/alincode/calc
+- https://github.com/alincode/bmi
+- https://github.com/alincode/fake-swagger-api
+- https://github.com/alincode/bootstrap-sandbox
+- https://github.com/alincode/html5-sandbox
+- https://github.com/alincode/es6-sandbox
+
+### Web Crawler
+
+- https://github.com/alincode/learning-web-crawler-30days
+- https://github.com/alincode/shop-rocnfa
+- https://github.com/alincode/chip1stop-scraper
+- https://github.com/alincode/digikey-cn-scraper
+- https://github.com/alincode/crawler-sandbox
+- https://github.com/alincode/throttled-request-sandbox
+- https://github.com/alincode/cn-element14-scraper
+- https://github.com/alincode/china-rs-scraper
+- https://github.com/alincode/mouser-scraper
+- https://github.com/alincode/digikey-tw-scraper
 
 ### Demo / Sandbox
 - https://github.com/alincode/lerna-sandbox-2019
@@ -161,3 +190,6 @@
 - https://github.com/alincode/api-test-demo-with-jsonplaceholder
 - https://github.com/alincode/cucumberjs-sandbox
 - https://github.com/alincode/bmi-demo
+- https://github.com/alincode/twitter-bot-sandbox
+- https://github.com/alincode/api-server
+- https://github.com/alincode/api-docs
