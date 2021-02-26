@@ -6,10 +6,6 @@
 - [x] page 4
 - [x] page 5
 - [ ] page 6
-- [ ] page 7
-- [ ] page 8
-- [ ] page 9
-- [ ] page 10
 
 ### Mise
 - https://github.com/alincode/translate-notice
@@ -136,6 +132,7 @@
 - https://github.com/alincode/modern-web-2019-modular-design
 - https://github.com/alincode/testing-day-2017-e2e-testing
 - https://github.com/alincode/jsdc-tw-2016-webdriverio
+- https://github.com/alincode/modern-web-2016-e2etest
 
 ### Teaching Example
 - https://github.com/alincode/git-sandbox-0517
@@ -193,3 +190,5 @@
 - https://github.com/alincode/twitter-bot-sandbox
 - https://github.com/alincode/api-server
 - https://github.com/alincode/api-docs
+- https://github.com/alincode/node-db-migrate-sandbox
+- https://github.com/alincode/koa-with-pm2-deploy-sandbox
