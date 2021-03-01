@@ -39,20 +39,6 @@
 - https://github.com/alincode/30-days-smart-contract
 - https://github.com/alincode/30-days-dapp
 
-### Ebook
-- https://github.com/alincode/learngeb (md)
-- https://github.com/alincode/backend-js-workshop (md)
-- https://github.com/alincode/git-workshop (md)
-- https://github.com/alincode/2019-fcu-backend-dev (html)
-- https://github.com/alincode/git-workshop-for-iii (html)
-- https://github.com/alincode/hellojs2-gitbook (md)
-- https://github.com/alincode/webdriverio-workshop (md)
-- https://github.com/alincode/takming-testing (md)
-- https://github.com/alincode/remote-workers-in-taiwan (md)
-- https://github.com/alincode/learning-ai2 (md)
-- https://github.com/alincode/learning-html5 (md)
-- https://github.com/alincode/learning-web-crawler (md)
-
 ### NPM
 - https://github.com/alincode/koa-gcs
 - https://github.com/alincode/skilltree.js (should be upgrade)
