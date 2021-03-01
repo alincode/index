@@ -4,3 +4,4 @@
 - https://github.com/open-source-ideas/open-source-ideas
 - https://github.com/IvanWei/developer-conferences-in-taiwan
   - website: https://dcit.ivanwei.co/
+- https://github.com/papers-we-love/papers-we-love
