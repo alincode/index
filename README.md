@@ -38,6 +38,7 @@
 - https://github.com/alincode/modular-design-30days-2019
 - https://github.com/alincode/30-days-smart-contract
 - https://github.com/alincode/30-days-dapp
+- https://github.com/alincode/learning-sailsjs-30days
 
 ### NPM
 - https://github.com/alincode/koa-gcs
@@ -74,21 +75,9 @@
 - https://github.com/alincode/youtube-playlist-markdown
 
 ### Technical Notebook
-- https://github.com/alincode/learning-sailsjs-30days
-- https://github.com/alincode/learning-es6
+
+- https://github.com/alincode/tech-notes
 - https://github.com/alincode/video-tutorials-for-developers
-- https://github.com/alincode/lerna-lab
-- https://github.com/alincode/yarn-workspaces-example
-- https://github.com/alincode/functional-programming-zero-to-hero
-- https://github.com/alincode/mqtt-sandbox
-- https://github.com/alincode/architecture-zero-to-hero
-- https://github.com/alincode/javascript-zero-to-hero
-- https://github.com/alincode/chatbot-zero-to-hero
-- https://github.com/alincode/design-pattern-zero-to-hero
-- https://github.com/alincode/ethereum-zero-to-hero
-- https://github.com/alincode/devops-zero-to-hero
-- https://github.com/alincode/blockchain-zero-to-hero
-- https://github.com/alincode/api-zero-to-hero
 - https://github.com/alincode/case-study-zero-to-hero
 - https://github.com/alincode/build-zero-to-hero
 - https://github.com/alincode/digital-nomad-zero-to-hero
@@ -119,6 +108,7 @@
 - https://github.com/alincode/testing-day-2017-e2e-testing
 - https://github.com/alincode/jsdc-tw-2016-webdriverio
 - https://github.com/alincode/modern-web-2016-e2etest
+- https://github.com/alincode/lerna-lab
 
 ### Teaching Example
 - https://github.com/alincode/git-sandbox-0517
