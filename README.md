@@ -8,6 +8,7 @@
 - [ ] page 6
 
 ### Mise
+- https://github.com/alincode/english-zero-to-hero
 - https://github.com/alincode/translate-notice
 - https://github.com/alincode/config
 - https://github.com/alincode/blog
@@ -70,39 +71,27 @@
 - https://github.com/alincode/king-sandbox
 
 #### Youtube Playlist
-- https://github.com/alincode/youtube-playlist-cli (should be upgrade)
-- https://github.com/alincode/youtube-playlist-summary (should be upgrade)
-- https://github.com/alincode/youtube-playlist-markdown
+- https://github.com/alincode/youtube-playlist-cli
+- https://github.com/alincode/youtube-playlist-summary
+- https://github.com/alincode/youtube-playlist-markdown (should upgrade)
 
 ### Technical Notebook
 
 - https://github.com/alincode/tech-notes
 - https://github.com/alincode/video-tutorials-for-developers
-- https://github.com/alincode/case-study-zero-to-hero
-- https://github.com/alincode/build-zero-to-hero
-- https://github.com/alincode/digital-nomad-zero-to-hero
-- https://github.com/alincode/testing-zero-to-hero
 - https://github.com/alincode/learning-day-by-day
 - https://github.com/alincode/resource-collection
-- https://github.com/alincode/speaker-zero-to-hero
-- https://github.com/alincode/solc-zero-to-hero
-- https://github.com/alincode/english-zero-to-hero
-- https://github.com/alincode/algorithm-zero-to-hero
-- https://github.com/alincode/aws-zero-to-hero
-- https://github.com/alincode/security-zero-to-hero
-- https://github.com/alincode/graphql-zero-to-hero
-- https://github.com/alincode/git-zero-to-hero
-- https://github.com/alincode/ai-zero-to-hero
-- https://github.com/alincode/debug-zero-to-hero
-- https://github.com/alincode/vuejs-zero-to-hero
 
 ### Interview Exam
 - https://github.com/alincode/exchange-module
 
 ### Work From Home
+- https://github.com/alincode/digital-nomad-zero-to-hero
 - https://github.com/software-career/stayinghomeclub
 
-### Speach Demo
+### Speach
+
+- https://github.com/alincode/speaker-zero-to-hero
 - https://github.com/alincode/modern-web-2018-swagger
 - https://github.com/alincode/modern-web-2019-modular-design
 - https://github.com/alincode/testing-day-2017-e2e-testing
@@ -112,7 +101,6 @@
 
 ### Teaching Example
 - https://github.com/alincode/git-sandbox-0517
-- https://github.com/alincode/promise-example
 - https://github.com/alincode/modern-web-2017
 - https://github.com/alincode/react-basic-demo
 - https://github.com/hellojs-tw/2017-summer-camp
