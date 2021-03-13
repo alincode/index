@@ -1,5 +1,6 @@
 # Ebook
 
+- https://alincode.github.io/learning-e2e-testing-with-python/ (md)
 - https://github.com/alincode/learngeb (md)
 - https://github.com/alincode/backend-js-workshop (md)
 - https://github.com/alincode/git-workshop (md)
